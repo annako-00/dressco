@@ -1,0 +1,23 @@
+h1{
+     color: black;
+     
+}
+
+.hello{
+     width: 100%;
+     min-height: 500px;
+     background-color: aquamarine;
+     
+}
+
+.ll{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-top: 200px;
+} 
+
+.allm{
+     display: flex;
+     flex-direction: row;
+}
